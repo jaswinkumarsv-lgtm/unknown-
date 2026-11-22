@@ -1,0 +1,2982 @@
+// IKS MCQ question bank (extracted from IKS_MCQ_with_Answers.pdf)
+window.IKS_DATA = {
+ "title": "Ancient Indian Knowledge Systems (IKS) MCQ Practice",
+ "totalQuestions": 252,
+ "topics": [
+  {
+   "id": "T1",
+   "lesson": 1,
+   "title": "Introduction to Indian Philosophy",
+   "questions": [
+    {
+     "id": 1,
+     "q": "Which Buddhist concept asserts that all observed objects in the world are constantly changing and impermanent?",
+     "options": [
+      "Anekantikata-vada",
+      "Kshanika (Theory of Impermanence)",
+      "Syadvada",
+      "Pradhana"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 2,
+     "q": "According to Lord Buddha, what is the ultimate root cause of human sorrow?",
+     "options": [
+      "Undue desire",
+      "Physical action",
+      "Lack of wealth",
+      "Strict ritualism"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 3,
+     "q": "In Buddhist philosophy, how is 'Ahimsa' defined?",
+     "options": [
+      "Complete physical inaction",
+      "A tranquil state of mind of not harming any living being",
+      "Ritual sacrifice",
+      "Passive acceptance of injustice"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 4,
+     "q": "The philosophical concept of relativism known as Saptabhangi-naya or Syadvada belongs to which school?",
+     "options": [
+      "Nyaya",
+      "Sankhya",
+      "Jainism",
+      "Vaisheshika"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 5,
+     "q": "What is the primary contribution of the Nyaya school of philosophy?",
+     "options": [
+      "Cosmic creation theory",
+      "Formal discipline of logic and argument presentation",
+      "Atomism",
+      "Vedic rituals"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 6,
+     "q": "What is the correct sequence of steps in presenting a formal argument according to Nyaya?",
+     "options": [
+      "Hetu -> Pratigna -> Udaharana",
+      "Pratigna (Proposition) -> Hetu (Reason) -> Udaharana (Illustration)",
+      "Udaharana -> Hetu -> Pratigna",
+      "Nigamana -> Hetu -> Udaharana"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 7,
+     "q": "Which ancient Indian philosopher founded the Vaisheshika school and propounded atomism?",
+     "options": [
+      "Kapila",
+      "Gautama",
+      "Kanada",
+      "Patanjali"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 8,
+     "q": "In Sankhya cosmology, what is the primordial material cause of the universe?",
+     "options": [
+      "Purusha",
+      "Mula Prakriti / Pradhana",
+      "Brahman",
+      "Maya"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 9,
+     "q": "Which school of Indian philosophy concentrates on sentence interpretation (hermeneutics) and Vedic rituals?",
+     "options": [
+      "Purva Mimamsa",
+      "Advaita Vedanta",
+      "Yoga",
+      "Buddhism"
+     ],
+     "answer": "A"
+    }
+   ]
+  },
+  {
+   "id": "T2",
+   "lesson": 2,
+   "title": "Ancient Indian Ideas and Modern Medical Systems",
+   "questions": [
+    {
+     "id": 10,
+     "q": "In ancient Indian classification, how many Astika schools of philosophy are recognized?",
+     "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 11,
+     "q": "Ayurveda is traditionally considered an auxiliary Veda (Upaveda) derived primarily from which Veda?",
+     "options": [
+      "Rig Veda",
+      "Yajur Veda",
+      "Atharva Veda",
+      "Sama Veda"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 12,
+     "q": "According to ancient Indian medical philosophy, human existence comprises how many bodies?",
+     "options": [
+      "Single physical body",
+      "Three bodies (Sthula, Sukshma, Karana Shariras)",
+      "Five physical sheaths",
+      "Two bodies"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 13,
+     "q": "What is the distinction between 'Golakam' and 'Indriyam' in ancient Indian physiology?",
+     "options": [
+      "Golakam is function, Indriyam is physical structure",
+      "Golakam is gross organ structure, Indriyam is functional mechanism",
+      "Golakam is mind, Indriyam is soul",
+      "Both are identical"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 14,
+     "q": "The organ of excretion ('Payu') belongs to which category of organs?",
+     "options": [
+      "Five Jnanendriyas",
+      "Five Karmendriyas (organs of action)",
+      "Pancha Pranas",
+      "Antahkarana"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 15,
+     "q": "Which Pancha Prana function is responsible for sleep transition, vomiting, and ejection of subtle body at death?",
+     "options": [
+      "Prana",
+      "Apana",
+      "Udana",
+      "Vyana"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 16,
+     "q": "Sound recorded in deep space by modern space agencies is stated to closely resemble which ancient sound?",
+     "options": [
+      "Wind sound",
+      "Omkara sound",
+      "Ocean waves",
+      "Thunder"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 17,
+     "q": "Which component of Antahkarana represents the intellect and decisive faculty?",
+     "options": [
+      "Manas",
+      "Chitta",
+      "Ahankara",
+      "Buddhi"
+     ],
+     "answer": "D"
+    },
+    {
+     "id": 18,
+     "q": "Which type of karma represents the portion of past karma brought into current life to be exhausted?",
+     "options": [
+      "Sanchita karma",
+      "Prarabdha karma",
+      "Agami karma",
+      "Drishta karma"
+     ],
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "id": "T3",
+   "lesson": 3,
+   "title": "Indian Epistemology 1 - Emphasis on Nyaya Epistemology",
+   "questions": [
+    {
+     "id": 19,
+     "q": "Which Bhagavad Gita verse emphasizes that there is nothing as pure as knowledge?",
+     "options": [
+      "Sarva vyavahara hetur jnanam",
+      "Nahi jnanena sadrisham pavitramiha vidyate",
+      "Mana eva manushyanam",
+      "Titikshasva bharata"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 20,
+     "q": "What is the psychological sequence leading from cognition to physical action?",
+     "options": [
+      "Jnana (Knowledge) -> Ichcha (Desire) -> Pravritti (Volition/Action)",
+      "Pravritti -> Jnana -> Ichcha",
+      "Ichcha -> Pravritti -> Jnana",
+      "Jnana -> Pravritti -> Ichcha"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 21,
+     "q": "Human behavior of remaining indifferent toward an object is termed in Sanskrit as:",
+     "options": [
+      "Pravritti",
+      "Nivritti",
+      "Audasinya",
+      "Yathartha"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 22,
+     "q": "Cognition that accurately reflects reality and leads to successful action is called:",
+     "options": [
+      "Ayathartha jnana",
+      "Yathartha jnana",
+      "Hetvabhasa",
+      "Anupalabdhi"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 23,
+     "q": "Western 'Gettier cases' of counter-examples to true belief justification were anticipated centuries earlier in India by which Buddhist thinker?",
+     "options": [
+      "Dharmakirti",
+      "Dharmottara (Mirage example)",
+      "Nagarjuna",
+      "Vasubandhu"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 24,
+     "q": "Why does Nyaya reject the mirage water example as valid knowledge even if water happens to be under the rock?",
+     "options": [
+      "Lack of desire",
+      "Absence of direct sense-object contact (Indriya-artha-sannikarsha)",
+      "Lack of logic",
+      "Invalid testimony"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 25,
+     "q": "According to Tarka Sangraha by Anambhatta, what is the definition of Buddhi/Jnana?",
+     "options": [
+      "Nahi jnanena sadrisham",
+      "Sarva vyavahara hetur jnanam buddhihi",
+      "Prakasha matra jnanam",
+      "Arthapatti jnanam"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 26,
+     "q": "How many valid means of knowledge (Pramanas) are accepted in Nyaya epistemology?",
+     "options": [
+      "2",
+      "4 (Pratyaksha, Anumana, Upamana, Shabda)",
+      "6",
+      "8"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 27,
+     "q": "What is the primary role of Shabda Pramana in Indian Epistemology?",
+     "options": [
+      "Self-perception",
+      "Verbal testimony from an authoritative person (Aapta)",
+      "Logical deduction only",
+      "Comparison"
+     ],
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "id": "T4",
+   "lesson": 4,
+   "title": "Ancient Indian Mathematics: Emphasis on Ganita Kaumudi",
+   "questions": [
+    {
+     "id": 28,
+     "q": "Who authored the 14th-century mathematical treatise Ganita Kaumudi in 1365 AD?",
+     "options": [
+      "Bhaskaracharya",
+      "Mahaviracharya",
+      "Narayana Pandita",
+      "Brahmagupta"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 29,
+     "q": "Which Western scholar first brought the incomplete manuscript of Ganita Kaumudi to light in 1846?",
+     "options": [
+      "HT Colebrooke",
+      "DE Smith",
+      "William Jones",
+      "Max Muller"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 30,
+     "q": "Who edited and published Ganita Kaumudi in India in 1936?",
+     "options": [
+      "Rangacharya",
+      "Sudhakar Dwivedi",
+      "Ramanujan",
+      "Bapu Deva Sastri"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 31,
+     "q": "Ganita Kaumudi is particularly famous for introducing detailed methods to construct:",
+     "options": [
+      "Trigonometric tables",
+      "Magic Squares (Bhadra Ganita)",
+      "Logarithmic tables",
+      "Differential equations"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 32,
+     "q": "In Ganita Kaumudi verse problem: 2 numbers have a difference of 2 and sum of their squares is 100. The numbers are:",
+     "options": [
+      "10 and 8",
+      "8 and 6",
+      "12 and 10",
+      "7 and 5"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 33,
+     "q": "In Ganita Kaumudi verse problem: 2 numbers have a difference of 8 and difference of their squares is 400. The numbers are:",
+     "options": [
+      "29 and 21",
+      "25 and 17",
+      "30 and 22",
+      "20 and 12"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 34,
+     "q": "In Ganita Kaumudi verse problem: product of 2 numbers is 60 and difference is 7. The numbers are:",
+     "options": [
+      "10 and 3",
+      "12 and 5",
+      "15 and 8",
+      "20 and 13"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 35,
+     "q": "In the monkey fraction problem verse (1/6 * 1/12 * x + 16 = x), what is the total number of monkeys?",
+     "options": [
+      "36",
+      "48",
+      "60",
+      "72"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 36,
+     "q": "In Ganita Kaumudi algebraic verse problem: sum of two numbers is 14 and sum of their squares is 100. The numbers are:",
+     "options": [
+      "10 and 4",
+      "8 and 6",
+      "9 and 5",
+      "7 and 7"
+     ],
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "id": "T5",
+   "lesson": 5,
+   "title": "Seeds of Wisdom: Vrikshayurveda Part 1",
+   "questions": [
+    {
+     "id": 37,
+     "q": "What is the core definition of Vrikshayurveda?",
+     "options": [
+      "Human medical science",
+      "Plant life science and agriculture",
+      "Veterinary science",
+      "Architecture science"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 38,
+     "q": "The definition 'vrikshadi prasava aaropa palanadi krithihi' is found in which classical text?",
+     "options": [
+      "Kamasutra",
+      "Shukranitisara",
+      "Surapala Vrikshayurveda",
+      "Arthashastra"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 39,
+     "q": "In Sanskrit Shastra classification, applied evidence-oriented science is called:",
+     "options": [
+      "Lakshana Shastra",
+      "Lakshya Shastra",
+      "Kavya Shastra",
+      "Nirukta Shastra"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 40,
+     "q": "Which classical dictum states that grammar and logic form the essential basis for all sciences?",
+     "options": [
+      "Sarva vyavahara hetur jnanam",
+      "Kaanadam Paaniniyam cha Sarvashastropakarakam",
+      "Nahi jnanena sadrisham",
+      "Mana eva manushyanam"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 41,
+     "q": "Traditional Vrikshayurveda agricultural model is characterized as:",
+     "options": [
+      "Dependent on external commercial fertilizers",
+      "A closed-loop sustainable farm model",
+      "Hydroponic farming",
+      "Chemical intensive"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 42,
+     "q": "Which European scientist adapted Vrikshayurveda concepts into modern biodynamic agriculture?",
+     "options": [
+      "Albert Einstein",
+      "Rudolf Steiner",
+      "Justus von Liebig",
+      "Gregor Mendel"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 43,
+     "q": "Under UN guidelines, traditional Vrikshayurveda knowledge is categorized as:",
+     "options": [
+      "Intellectual Property Right (IPR)",
+      "Indigenous Technical Knowledge (ITK)",
+      "Commercial Trade Secret",
+      "Open Access Patent"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 44,
+     "q": "Which text is a dedicated classical treatise on plant life science authored by Surapala?",
+     "options": [
+      "Upavana Vinoda",
+      "Surapala Vrikshayurveda",
+      "Vishwavallabha",
+      "Krishigeeta"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 45,
+     "q": "Which text from the 18th century is among the recent traditional treatises on plant science?",
+     "options": [
+      "Tambula Manjari",
+      "Arthashastra",
+      "Kamasutra",
+      "Jataka"
+     ],
+     "answer": "A"
+    }
+   ]
+  },
+  {
+   "id": "T6",
+   "lesson": 6,
+   "title": "Introduction to Indian Logic",
+   "questions": [
+    {
+     "id": 46,
+     "q": "Which Rig Vedic Suktam contemplates the cosmic creation and limits of knowledge?",
+     "options": [
+      "Purusha Suktam",
+      "Nasadiya Suktam",
+      "Devi Suktam",
+      "Shanti Suktam"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 47,
+     "q": "What are the traditional Indian names for the formal discipline of logic?",
+     "options": [
+      "Alankara & Kavya",
+      "Tarka Shastra & Anvikshaki",
+      "Mimamsa & Vedanta",
+      "Vyakarana & Nirukta"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 48,
+     "q": "What is the 5-step method of formal exposition of any subject matter in Indian logic?",
+     "options": [
+      "Uddesha -> Lakshana -> Pareeksha -> Vibhaga -> Nigamana",
+      "Pratigna -> Hetu -> Udaharana -> Upanaya -> Nigamana",
+      "Jnana -> Ichcha -> Pravritti -> Nivritti -> Audasinya",
+      "Sthula -> Sukshma -> Karana -> Golaka -> Indriya"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 49,
+     "q": "What does 'Uddesha' mean in the formal exposition of a subject?",
+     "options": [
+      "Detailed examination",
+      "Declaration of title or nomenclature",
+      "Final conclusion",
+      "Classification"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 50,
+     "q": "Defining an atom merely as 'something small' causes which fallacy due to over-extension to molecules?",
+     "options": [
+      "Avyapti",
+      "Ativyapti",
+      "Asambhava",
+      "Hetvabhasa"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 51,
+     "q": "Defining an atom by a feature that fails to cover all types of atoms causes which fallacy?",
+     "options": [
+      "Avyapti (under-pervasion)",
+      "Ativyapti",
+      "Asambhava",
+      "Upamana"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 52,
+     "q": "Stating an impossible feature in a definition (e.g., 'atom has fire inside') causes which fallacy?",
+     "options": [
+      "Avyapti",
+      "Ativyapti",
+      "Asambhava (impossibility)",
+      "Anupalabdhi"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 53,
+     "q": "Statement 'The mountain has fire' in Nyaya syllogism represents which component?",
+     "options": [
+      "Hetu",
+      "Pratigna (Proposition)",
+      "Udaharana",
+      "Nigamana"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 54,
+     "q": "Which quality of a valid sentence in Shabda Pramana requires an intelligible, proper speed of utterance?",
+     "options": [
+      "Akanksha",
+      "Yogyata",
+      "Sannidhi",
+      "Aapta"
+     ],
+     "answer": "C"
+    }
+   ]
+  },
+  {
+   "id": "T7",
+   "lesson": 7,
+   "title": "Ancient Indian Wisdom and Way to Happiness",
+   "questions": [
+    {
+     "id": 55,
+     "q": "According to ancient Indian wisdom, all human actions are ultimately directed toward:",
+     "options": [
+      "Dharma & Artha",
+      "Sukha prapti (gaining happiness) & Dukkha nivritti (alleviating sorrow)",
+      "Pravritti & Nivritti",
+      "Kama & Moksha"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 56,
+     "q": "Happiness dependent on external objects, people, or situations is called:",
+     "options": [
+      "Atmananda",
+      "Vishayananda",
+      "Paramananda",
+      "Brahmananda"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 57,
+     "q": "The defect of Vishayananda involving continuous struggle to achieve and retain status is called:",
+     "options": [
+      "Dukkha-mishrita",
+      "Atriptikaratva",
+      "Bandhakatva",
+      "Titiksha"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 58,
+     "q": "The defect of Vishayananda where complete sense of fulfillment is never attained is called:",
+     "options": [
+      "Dukkha-mishrita",
+      "Atriptikaratva",
+      "Bandhakatva",
+      "Titiksha"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 59,
+     "q": "The flaw of Vishayananda where a person becomes helplessly dependent on external objects is called:",
+     "options": [
+      "Dukkha-mishrita",
+      "Atriptikaratva",
+      "Bandhakatva",
+      "Titiksha"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 60,
+     "q": "In Bhagavad Gita, what mental fortitude is Arjuna advised to cultivate ('titikshasva bharata')?",
+     "options": [
+      "Ahimsa",
+      "Titiksha (Mental toughness/resilience)",
+      "Vairagya",
+      "Dhyana"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 61,
+     "q": "Which text contains the quote 'mana eva manushyanam karana bandha mokshayo' (mind causes bondage and liberation)?",
+     "options": [
+      "Bhagavad Gita",
+      "Amrita Bindu Upanishad",
+      "Rig Veda",
+      "Tarka Sangraha"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 62,
+     "q": "What immediate psychological attitude is highlighted as the direct shortcut to happiness?",
+     "options": [
+      "Accumulating possessions",
+      "Cultivating gratitude",
+      "Engaging in debates",
+      "Excessive sleep"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 63,
+     "q": "The Buland Darwaza inscription at Fatehpur Sikri quotes Jesus saying:",
+     "options": [
+      "Knowledge is power",
+      "Human life is a bridge; do not build your house on it",
+      "Truth alone triumphs",
+      "Desire is sorrow"
+     ],
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "id": "T8",
+   "lesson": 8,
+   "title": "Indian Epistemology 2 - Emphasis on Pramanas",
+   "questions": [
+    {
+     "id": 64,
+     "q": "How many total Pramanas are recognized across all Indian philosophical traditions?",
+     "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 65,
+     "q": "What is the precise causal sequence in perceptual cognition (Pratyaksha)?",
+     "options": [
+      "Self -> Senses -> Mind -> Object",
+      "Self -> Mind -> Senses -> Object",
+      "Mind -> Self -> Senses -> Object",
+      "Object -> Senses -> Self -> Mind"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 66,
+     "q": "Perception where raw elements are grasped without conceptual organization is called:",
+     "options": [
+      "Savikalpaka",
+      "Nirvikalpaka",
+      "Anumiti",
+      "Upamiti"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 67,
+     "q": "Invariable concomitance between Hetu (smoke) and Sadhya (fire) in inference is called:",
+     "options": [
+      "Paksha",
+      "Hetu",
+      "Vyapti",
+      "Sadhya"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 68,
+     "q": "Learning the meaning of 'Gavaya' from its resemblance to a known cow is an example of:",
+     "options": [
+      "Anumana",
+      "Upamana (Analogy)",
+      "Arthapatti",
+      "Shabda"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 69,
+     "q": "Fat Devadatta who fasts during daytime implies he eats at night. This is an example of:",
+     "options": [
+      "Anumana",
+      "Arthapatti (Postulation)",
+      "Upamana",
+      "Anupalabdhi"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 70,
+     "q": "Which philosophical schools accept Anupalabdhi (non-perception) as an independent Pramana?",
+     "options": [
+      "Nyaya & Vaisheshika",
+      "Bhatta Mimamsa & Advaita Vedanta",
+      "Buddhism & Jainism",
+      "Charvaka"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 71,
+     "q": "Which school of Indian philosophy accepts ONLY Pratyaksha (perception) as valid Pramana?",
+     "options": [
+      "Buddhism",
+      "Charvaka",
+      "Jainism",
+      "Nyaya"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 72,
+     "q": "How many Pramanas are accepted by Nyaya, Prabhakara Mimamsa, and Advaita Vedanta respectively?",
+     "options": [
+      "Nyaya: 4, Prabhakara: 5, Advaita: 6",
+      "Nyaya: 2, Prabhakara: 4, Advaita: 6",
+      "Nyaya: 6, Prabhakara: 5, Advaita: 4",
+      "Nyaya: 1, Prabhakara: 3, Advaita: 5"
+     ],
+     "answer": "A"
+    }
+   ]
+  },
+  {
+   "id": "T9",
+   "lesson": 9,
+   "title": "Ancient Indian Mathematics: Emphasis on Ganitasarasangraha",
+   "questions": [
+    {
+     "id": 73,
+     "q": "Who authored the 8th-century Jain mathematical work Ganitasarasangraha?",
+     "options": [
+      "Bhaskaracharya",
+      "Mahaviracharya",
+      "Brahmagupta",
+      "Aryabhata"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 74,
+     "q": "Who collected and published the manuscript of Ganitasarasangraha in Chennai in 1912?",
+     "options": [
+      "Prof. M. Rangacharya",
+      "Sudhakar Dwivedi",
+      "DE Smith",
+      "Colebrooke"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 75,
+     "q": "Where was Ganitasarasangraha introduced internationally in 1908 by Dr. DE Smith?",
+     "options": [
+      "London",
+      "4th International Congress of Mathematicians in Rome",
+      "Paris",
+      "Berlin"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 76,
+     "q": "How many essential qualities of a mathematician (Ganaka) are listed by Mahaviracharya?",
+     "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 77,
+     "q": "The ability to guess mathematical answers is called:",
+     "options": [
+      "Laghukarana",
+      "Uha",
+      "Apoha",
+      "Dharanam"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 78,
+     "q": "Ancient system of representing numbers using symbolic words in mathematical verses is called:",
+     "options": [
+      "Katapayadi system",
+      "Bhuta Sankhya system",
+      "Brahmi system",
+      "Decimal system"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 79,
+     "q": "In Bhuta Sankhya, words 'Shashi', 'Soma', and 'Chandra' represent number:",
+     "options": [
+      "0",
+      "1",
+      "2",
+      "7"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 80,
+     "q": "In Bhuta Sankhya, word 'Namda' represents number:",
+     "options": [
+      "7",
+      "8",
+      "9",
+      "5"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 81,
+     "q": "Result of multiplying 97654321 by 9 in Mahavira's verse problem:",
+     "options": [
+      "String of 8s",
+      "String of 1s (Narpala Kanticaparanam pattern)",
+      "Alternating digits",
+      "99999999"
+     ],
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "id": "T10",
+   "lesson": 10,
+   "title": "Seeds of Wisdom: Vrikshayurveda Part 2",
+   "questions": [
+    {
+     "id": 82,
+     "q": "Prior to the 18th century, India and China together controlled what share of world GDP?",
+     "options": [
+      "10%",
+      "30%",
+      "50%",
+      "70%"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 83,
+     "q": "Which primary sector drove India's historical economic leadership position?",
+     "options": [
+      "Mining",
+      "Agriculture",
+      "Shipping alone",
+      "Banking"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 84,
+     "q": "Branch of Vrikshayurveda focusing on grain crops (annuals like paddy, wheat):",
+     "options": [
+      "Upavana Prakriya",
+      "Krishi Tantra",
+      "Vastu Shastra",
+      "Jyotisha"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 85,
+     "q": "Branch of Vrikshayurveda focusing on agroforestry and community gardens:",
+     "options": [
+      "Upavana Prakriya",
+      "Krishi Tantra",
+      "Nirukta",
+      "Alankara"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 86,
+     "q": "Ancient deep drip root irrigation technique using buried long-neck mud pots is called:",
+     "options": [
+      "Nishechanam",
+      "Mritgataha",
+      "Beeja Samskara",
+      "Aaropaha"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 87,
+     "q": "Common fungal plant disease controlled by pouring water stored in copper vessels:",
+     "options": [
+      "Root rot",
+      "Leaf blight",
+      "Powdered mildew",
+      "Rust"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 88,
+     "q": "Four components of Vartha (commerce/livelihood) in Arthashastra:",
+     "options": [
+      "Vanija, Kusita, Pashupalana, Krishikarma",
+      "Dharma, Artha, Kama, Moksha",
+      "Tarka, Vada, Nyaya, Mimamsa",
+      "Shiksha, Kalpa, Vyakarana, Nirukta"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 89,
+     "q": "Acharya Kautilya states that the root foundation of all Vartha economic activities is:",
+     "options": [
+      "Banking (Kusita)",
+      "Trade (Vanija)",
+      "Agriculture (Krishi)",
+      "Animal Husbandry (Pashupalana)"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 90,
+     "q": "Which Indian Prime Minister's tenure saw ICAR cross-verify traditional Vrikshayurveda practices?",
+     "options": [
+      "Jawaharlal Nehru",
+      "Atal Bihari Vajpayee",
+      "Indira Gandhi",
+      "Manmohan Singh"
+     ],
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "id": "T11",
+   "lesson": 11,
+   "title": "Ancient Indian Mathematics: Emphasis on Lilavati Bhaskaracharya",
+   "questions": [
+    {
+     "id": 91,
+     "q": "In which century did Bhaskaracharya II author Lilavati?",
+     "options": [
+      "8th century",
+      "10th century",
+      "12th century",
+      "14th century"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 92,
+     "q": "Lilavati is part of which monumental astronomical work written by Bhaskaracharya at age 36?",
+     "options": [
+      "Aryabhatiya",
+      "Siddhanta Shiromani",
+      "Brahmasphutasiddhanta",
+      "Ganitasarasangraha"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 93,
+     "q": "Total number of shlokas contained in Lilavati:",
+     "options": [
+      "100",
+      "277",
+      "500",
+      "1008"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 94,
+     "q": "Sanskrit mathematical term for subtraction used in Lilavati:",
+     "options": [
+      "Sankalana",
+      "Vyavakalana",
+      "Gunakara",
+      "Bhagakara"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 95,
+     "q": "In Lilavati, word 'Veda' represents number:",
+     "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 96,
+     "q": "In Lilavati, word 'Lochana' or 'Ashwini' represents which number?",
+     "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 97,
+     "q": "Result of adding 2, 5, 32, 193, 18, 10, 100 and subtracting sum from 10,000 in Lilavati:",
+     "options": [
+      "9,640",
+      "9,500",
+      "9,800",
+      "10,000"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 98,
+     "q": "Sum of charity given over 15 days starting at 4 drammas and increasing by 5 daily:",
+     "options": [
+      "500",
+      "585",
+      "620",
+      "450"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 99,
+     "q": "Two numbers whose sum is 101 and difference is 25:",
+     "options": [
+      "60 and 41",
+      "63 and 38",
+      "65 and 36",
+      "70 and 31"
+     ],
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "id": "T12",
+   "lesson": 12,
+   "title": "Indo-European Languages",
+   "questions": [
+    {
+     "id": 100,
+     "q": "Sanskrit word 'Matruh' is cognate with English 'mother' and Latin:",
+     "options": [
+      "Pater",
+      "Mater",
+      "Frater",
+      "Soror"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 101,
+     "q": "Sanskrit number 'Trini' corresponds to Greek 'tria' and English:",
+     "options": [
+      "Two",
+      "Three",
+      "Ten",
+      "Seven"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 102,
+     "q": "Cognate string for number 7: Sanskrit 'Sapta', Greek 'epta', Latin 'septa', German 'sieben', English:",
+     "options": [
+      "Six",
+      "Seven",
+      "Ten",
+      "Eight"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 103,
+     "q": "Geographic region between Sindhu and Saraswati rivers where Sanskrit civilization developed:",
+     "options": [
+      "Magadha",
+      "Brahmavarta",
+      "Dravida",
+      "Kashi"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 104,
+     "q": "Classical Latin language was formed by combining Classical Greek and:",
+     "options": [
+      "Sanskrit",
+      "Ancient Italian tribal languages",
+      "German",
+      "Persian"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 105,
+     "q": "English verb 'is' traces its etymological root back to Sanskrit verb:",
+     "options": [
+      "Bhavati",
+      "Asti",
+      "Karoti",
+      "Gacchati"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 106,
+     "q": "Grammatical feature present only in Sanskrit and ancient Homeric Greek (Iliad & Odyssey):",
+     "options": [
+      "Singular only",
+      "Dual number (Dvivachana)",
+      "Plural only",
+      "Genderless nouns"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 107,
+     "q": "Sanskrit word 'Manas' (mind) corresponds directly to which Greek cognate?",
+     "options": [
+      "Megas",
+      "Menos",
+      "Skafos",
+      "Domos"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 108,
+     "q": "Sanskrit word 'Nauka' (boat) corresponds directly to which Greek cognate?",
+     "options": [
+      "Menos",
+      "Skafos",
+      "Khione",
+      "Domos"
+     ],
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "id": "T13",
+   "lesson": 13,
+   "title": "Relevance of Kautilya's Arthashastra with Commerce",
+   "questions": [
+    {
+     "id": 109,
+     "q": "In which year did Dr. R. Shamasastry recover manuscript of Kautilya's Arthashastra?",
+     "options": [
+      "1857",
+      "1905",
+      "1947",
+      "1920"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 110,
+     "q": "Classical Western economist defining economics as 'science of wealth':",
+     "options": [
+      "Adam Smith",
+      "David Ricardo",
+      "Alfred Marshall",
+      "JS Mill"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 111,
+     "q": "Meaning of 'Artha' in Kautilya's Arthashastra:",
+     "options": [
+      "Gold only",
+      "Territory / land and wealth",
+      "Religious merit",
+      "Moral law"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 112,
+     "q": "Kautilya's term for trade / varta vidya:",
+     "options": [
+      "Vanikpatha",
+      "Varta / Vanijya",
+      "Vishti",
+      "Hiranya"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 113,
+     "q": "Formal definition of Commerce in modern business studies:",
+     "options": [
+      "Raw material production",
+      "Auxiliaries / ancillaries to trade",
+      "Retail selling only",
+      "Agriculture"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 114,
+     "q": "Verse 'Dhanya pashu hiranya kupya vishti pradhana dopakariki' outlines:",
+     "options": [
+      "Agricultural crops",
+      "Essential elements assisting trade circuit",
+      "Religious rituals",
+      "Military weapons"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 115,
+     "q": "Term 'Vanikpatha' in Arthashastra refers to:",
+     "options": [
+      "Trader's tax",
+      "Trader's route protected by king",
+      "Market place",
+      "Storage house"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 116,
+     "q": "Interest rate recommended by Kautilya for commercial/trading activities:",
+     "options": [
+      "5%",
+      "10%",
+      "20%",
+      "50%"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 117,
+     "q": "Story of Kautilya observing porridge eaten from edges taught him to attack Dhanananda by:",
+     "options": [
+      "Striking the fortified center first",
+      "Capturing weaker outer border territories first",
+      "Using naval forces",
+      "Paying ransom"
+     ],
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "id": "T14",
+   "lesson": 14,
+   "title": "Ancient Indian Urban Architecture and City Planning",
+   "questions": [
+    {
+     "id": 118,
+     "q": "Ancient city described in Ramayana as having detailed planned layout:",
+     "options": [
+      "Indraprastha",
+      "Ayodhya",
+      "Pataliputra",
+      "Ujjain"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 119,
+     "q": "Key urban planning feature found in Indus Valley excavations (Mohenjo-Daro, Harappa):",
+     "options": [
+      "Grid-like road layout and closed drainage",
+      "Circular wooden huts",
+      "Unplanned streets",
+      "Absence of water storage"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 120,
+     "q": "Primary reason for constructing large public granaries in ancient planned cities:",
+     "options": [
+      "Export to foreign lands",
+      "Food security during droughts and dry river periods",
+      "Tax display",
+      "Animal feed storage"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 121,
+     "q": "Standard anatomical unit used to measure wall and ceiling heights in ancient residences:",
+     "options": [
+      "Hasta",
+      "Angula (middle finger segment of tallest family member)",
+      "Dhanus",
+      "Yojana"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 122,
+     "q": "Advantage of tailor-made Angula measurement in residential architecture:",
+     "options": [
+      "Mass industrial construction",
+      "Houses customized ergonomically to residents' physical height",
+      "Cost reduction only",
+      "Symmetry only"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 123,
+     "q": "Seating arrangement structure for theatre audience specified in Natya Shastra:",
+     "options": [
+      "Flat ground seating",
+      "Step-wise amphitheatre arrangement",
+      "Standing balcony",
+      "Isolated cubicles"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 124,
+     "q": "Placement of orchestra/musicians in ancient Indian theatre to focus acoustics:",
+     "options": [
+      "Left of stage",
+      "Directly behind actors on stage",
+      "In front pit",
+      "Outside auditorium"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 125,
+     "q": "In Arthashastra warehouse planning, why were separate specialized storage facilities mandated?",
+     "options": [
+      "To avoid mixing items and prevent decay/rust via tailored ventilation",
+      "For aesthetic display",
+      "For religious offerings",
+      "To employ more guards"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 126,
+     "q": "What feature of ancient Indian theatre design ensured clear acoustics without modern microphones?",
+     "options": [
+      "Open sky roof",
+      "Step-wise amphitheatre seating and positioning orchestra behind actors",
+      "Heavy curtain drapes",
+      "Metal megaphones"
+     ],
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "id": "T15",
+   "lesson": 15,
+   "title": "Relevance of Kautilya's Arthashastra with Management",
+   "questions": [
+    {
+     "id": 127,
+     "q": "Primary functions of management include:",
+     "options": [
+      "Buying, selling, accounting",
+      "Planning, organizing, staffing, directing, controlling",
+      "Hiring, firing, paying",
+      "Designing, manufacturing, testing"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 128,
+     "q": "Verse 'Pradipaha sarva vidyanam upayaha sarva karmanam...' declares Anvikshiki as:",
+     "options": [
+      "Optional study",
+      "Supreme torchbearer for all disciplines and activities",
+      "Religious ritual",
+      "Poetic art"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 129,
+     "q": "Three components included in Kautilya's concept of Anvikshiki:",
+     "options": [
+      "Sankhya, Yoga, Lokayata",
+      "Nyaya, Vaisheshika, Mimamsa",
+      "Rig, Yajus, Sama",
+      "Dharma, Artha, Kama"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 130,
+     "q": "Application of Tarka Shastra (logic) in modern human resource management:",
+     "options": [
+      "Random hiring",
+      "Logical justification for hiring and firing employees",
+      "Salary reduction",
+      "Attendance tracking"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 131,
+     "q": "Chapter in Arthashastra detailing the Planning function of management:",
+     "options": [
+      "Adhyaksha Prachara",
+      "Mantra Lochana",
+      "Panyadhyaksha",
+      "Sunnyadhyaksha"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 132,
+     "q": "Chapter in Arthashastra detailing Organizing, Staffing, Directing, and Controlling:",
+     "options": [
+      "Mantra Lochana",
+      "Adhyaksha Prachara",
+      "Varta Vidya",
+      "Vanikpatha"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 133,
+     "q": "Why are Principles of Management said to have 'no straight-jacket solution'?",
+     "options": [
+      "They are rigid laws",
+      "They provide general guidelines whose outcome depends on human behavior",
+      "They are obsolete",
+      "They apply only to factories"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 134,
+     "q": "In Kautilya's Anvikshiki, 'Vada Vidya' corresponds to which modern management function?",
+     "options": [
+      "Financial auditing",
+      "Argumentation and training justification",
+      "Inventory control",
+      "Tax collection"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 135,
+     "q": "Which element distinguishes Kautilyan management from modern purely profit-driven management?",
+     "options": [
+      "Use of technology",
+      "Integration of ethical conduct (Dharma) in all priority activities",
+      "Centralized rule",
+      "Absence of planning"
+     ],
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "id": "T16",
+   "lesson": 16,
+   "title": "Psychosomatics of Natyashastra",
+   "questions": [
+    {
+     "id": 136,
+     "q": "Concept of Psychosomatics refers to:",
+     "options": [
+      "Pure mental calculations",
+      "Interrelationship between mind and bodily physical reflections",
+      "Physical exercise",
+      "Dramatic dialogue"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 137,
+     "q": "Core chapters of Natya Shastra detailing psychosomatics and emotions:",
+     "options": [
+      "Chapters 1 & 2",
+      "Chapters 6 & 7 (Rasadhyaya & Bhavadhyaya)",
+      "Chapters 15 & 16",
+      "Chapters 30 & 31"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 138,
+     "q": "Total number of emotions (Bhavas) analyzed in Natya Shastra:",
+     "options": [
+      "16",
+      "32",
+      "49",
+      "64"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 139,
+     "q": "Number of involuntary physical manifestations of emotion (Sattvika Bhavas):",
+     "options": [
+      "4",
+      "8",
+      "12",
+      "16"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 140,
+     "q": "Examples of Sattvika Bhavas include:",
+     "options": [
+      "Speech, walking, dancing",
+      "Tears, sweat, change of facial color, voice trembling",
+      "Singing, instrument playing",
+      "Costume changing"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 141,
+     "q": "Bodily expression of anger towards a superior or elder:",
+     "options": [
+      "Harsh voice and wagging finger",
+      "Controlled expression, frown, avoiding eye contact, sweating",
+      "Loud laughing",
+      "Physical attack"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 142,
+     "q": "Number of distinct types of smiles and laughter documented in Natya Shastra:",
+     "options": [
+      "3",
+      "5",
+      "7",
+      "10"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 143,
+     "q": "Physical symptom during heavy/deep alcohol intoxication according to Natya Shastra:",
+     "options": [
+      "Relaxed mind",
+      "Unfiltered speech",
+      "Hiccups (hikka) and vomiting (kapha)",
+      "High alertness"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 144,
+     "q": "Which smile/laughter type in Natya Shastra represents a gentle, subtle, pleasant smile?",
+     "options": [
+      "Smita",
+      "Attahasita",
+      "Apahasita",
+      "Atihasita"
+     ],
+     "answer": "A"
+    }
+   ]
+  },
+  {
+   "id": "T17",
+   "lesson": 17,
+   "title": "Ancient Indian Temple Architecture - Parts 1 & 2",
+   "questions": [
+    {
+     "id": 145,
+     "q": "Role of temple architecture in ancient Indian civilization:",
+     "options": [
+      "Worship place only",
+      "Socio-economic, cultural, and spiritual nucleus",
+      "Fortress for kings",
+      "Storage shed"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 146,
+     "q": "Oldest surviving hollow structural monument in Indian subcontinent (~300 BC):",
+     "options": [
+      "Kailasanatha Temple",
+      "Sanchi Stupa",
+      "Brihadishwara Temple",
+      "Shore Temple"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 147,
+     "q": "Monolithic temple carved top-to-bottom from a single basalt mountain slope:",
+     "options": [
+      "Brihadishwara Temple Thanjavur",
+      "Kailasanatha Temple at Ellora",
+      "Sun Temple Konark",
+      "Meenakshi Temple"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 148,
+     "q": "Height of Brihadishwara Temple in Thanjavur built (~1010 CE):",
+     "options": [
+      "50 feet",
+      "100 feet",
+      "Over 200 feet",
+      "500 feet"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 149,
+     "q": "Weight of single stone Shikara at top of Brihadishwara Temple:",
+     "options": [
+      "10 tons",
+      "50 tons",
+      "90 tons (90,000 kg)",
+      "200 tons"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 150,
+     "q": "Construction feature of Brihadishwara Temple stone blocks:",
+     "options": [
+      "Heavy cement mortar",
+      "Dry interlocking without any adhesive",
+      "Iron clamps throughout",
+      "Wooden pegs"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 151,
+     "q": "Temple with musical staircases emitting Saptasvaras in Tamil Nadu:",
+     "options": [
+      "Thanjavur",
+      "Dharasuram (Rajarajapuram)",
+      "Chidambaram",
+      "Madurai"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 152,
+     "q": "Temple in Hampi featuring composite musical stone pillars emitting musical notes:",
+     "options": [
+      "Virupaksha Temple",
+      "Vijayavittala Temple",
+      "Hazara Rama Temple",
+      "Pattabhirama Temple"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 153,
+     "q": "5000-year-old bronze sculpture made using lost-wax technique (Madhu Chhishta):",
+     "options": [
+      "Nataraja",
+      "Dancing Girl of Harappa/Mohenjo-Daro",
+      "Buddha statue",
+      "Mahavira idol"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 154,
+     "q": "Pinhole camera effect projecting inverted colored image of Gopura in Virupaksha Temple is located at:",
+     "options": [
+      "Main entrance",
+      "Wall near Garbhagriha",
+      "Outer courtyard",
+      "Temple roof"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 155,
+     "q": "Northern style vs Southern style of Indian temple architecture are designated as:",
+     "options": [
+      "Nagara and Dravida",
+      "Vesara and Chola",
+      "Gandhara and Mathura",
+      "Stupa and Chaitya"
+     ],
+     "answer": "A"
+    }
+   ]
+  },
+  {
+   "id": "T19",
+   "lesson": 19,
+   "title": "Evolution of Scripts - Early Scripts",
+   "questions": [
+    {
+     "id": 156,
+     "q": "Which statement correctly describes the relationship between languages and scripts?",
+     "options": [
+      "One script can write only one language",
+      "Multiple languages can use one script, and one language can use multiple scripts",
+      "Language and script are identical",
+      "Scripts never change"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 157,
+     "q": "Prehistoric Indian rock art paintings (>30,000 years old) are called:",
+     "options": [
+      "Hieroglyphs",
+      "Petroglyphs",
+      "Cuneiform",
+      "Manuscripts"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 158,
+     "q": "Script of ancient Egypt used for monuments and tombs:",
+     "options": [
+      "Cuneiform",
+      "Hieroglyphs",
+      "Oracle bone",
+      "Brahmi"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 159,
+     "q": "Earliest writing system in ancient Middle East (Mesopotamia):",
+     "options": [
+      "Hieroglyphs",
+      "Cuneiform",
+      "Phoenician",
+      "Aramaic"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 160,
+     "q": "Cylinder seal (~2100 BCE) from Akkad identifies Shu-ili-shu as interpreter of:",
+     "options": [
+      "Egyptian language",
+      "Meluhhan (Indus Valley) language",
+      "Sumerian language",
+      "Greek language"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 161,
+     "q": "Numerical base system used by Indus Valley civilization evidenced by cubical weights:",
+     "options": [
+      "Binary (base-2)",
+      "Hexadecimal (base-16)",
+      "Decimal (base-10)",
+      "Vigesimal (base-20)"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 162,
+     "q": "Earliest Indian coins bearing rich diversity of symbols (~500 BCE):",
+     "options": [
+      "Gold Dinars",
+      "Punch-marked coins",
+      "Copper Paisa",
+      "Silver Rupiya"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 163,
+     "q": "Scripts used in King Ashoka's inscriptions (~200-300 BCE):",
+     "options": [
+      "Brahmi, Kharosthi, Greek, Aramaic",
+      "Devanagari only",
+      "Latin & Arabic",
+      "Tamil only"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 164,
+     "q": "Which script evolved from Egyptian hieroglyphs to serve Christian texts in Egypt?",
+     "options": [
+      "Cuneiform",
+      "Coptic script (combining Greek alphabet with demotic letters)",
+      "Phoenician",
+      "Oracle bone"
+     ],
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "id": "T20",
+   "lesson": 20,
+   "title": "Evolution of Scripts - Brahmi Scripts",
+   "questions": [
+    {
+     "id": 165,
+     "q": "Meaning of 'Akshara' in Vedic tradition:",
+     "options": [
+      "Temporary sound",
+      "Eternal, imperishable sound/syllable",
+      "Written mark only",
+      "Grammar rule"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 166,
+     "q": "Jain tradition states Brahmi script was named after:",
+     "options": [
+      "Lord Brahma",
+      "Bambi, daughter of Tirthankara Rishabhanatha",
+      "Brahmana priest",
+      "Brahmi herb"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 167,
+     "q": "Buddhist text listing 64 scripts mastered by Siddhartha Gautama:",
+     "options": [
+      "Dhammapada",
+      "Lalitavistara Sutra",
+      "Jataka",
+      "Mahavamsa"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 168,
+     "q": "Primary directional writing of Brahmi script:",
+     "options": [
+      "Right to left",
+      "Left to right",
+      "Top to bottom",
+      "Bottom to top"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 169,
+     "q": "Writing direction and vowel usage of Kharosthi script:",
+     "options": [
+      "Left to right, long vowels only",
+      "Right to left, short vowels only",
+      "Top to bottom, all vowels",
+      "Bi-directional"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 170,
+     "q": "Delhi Sultan who transported 5 Ashokan pillars to Delhi in 1400 CE:",
+     "options": [
+      "Alauddin Khilji",
+      "Firoz Shah Tughlaq",
+      "Iltutmish",
+      "Babur"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 171,
+     "q": "Key Asiatic Society scholar who deciphered Brahmi script in 1830s:",
+     "options": [
+      "William Jones",
+      "James Prinsep",
+      "Alexander Cunningham",
+      "Max Muller"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 172,
+     "q": "French scholar Albert Terrien de Lacouperie named ancient Indian scripts based on which text?",
+     "options": [
+      "Arthashastra",
+      "Chinese translation of Lalitavistara Sutra",
+      "Rig Veda",
+      "Ashtadhyayi"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 173,
+     "q": "Which script was widely used by traders in Central Asia for around 600 years?",
+     "options": [
+      "Kharosthi",
+      "Grantha",
+      "Sharada",
+      "Modi"
+     ],
+     "answer": "A"
+    }
+   ]
+  },
+  {
+   "id": "T21",
+   "lesson": 21,
+   "title": "Evolution of Scripts - Indian Scripts",
+   "questions": [
+    {
+     "id": 174,
+     "q": "Primary writing material in Southern India that created rounded character shapes:",
+     "options": [
+      "Birch bark",
+      "Palm leaf incised with iron stylus",
+      "Clay tablet",
+      "Paper"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 175,
+     "q": "Primary writing material in Northern India that created angular character shapes:",
+     "options": [
+      "Palm leaf",
+      "Birch bark / paper with reed pen",
+      "Stone slab",
+      "Metal sheet"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 176,
+     "q": "Era when Brahmi script split into distinct Northern and Southern styles:",
+     "options": [
+      "1st century BCE",
+      "4th-5th century CE",
+      "10th century CE",
+      "15th century CE"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 177,
+     "q": "Indian dynasty whose script style influenced writing systems of Southeast Asia:",
+     "options": [
+      "Maurya",
+      "Gupta",
+      "Pallava",
+      "Chola"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 178,
+     "q": "Specialized running-hand script developed for administration and trade in Maharashtra:",
+     "options": [
+      "Devanagari",
+      "Modi script",
+      "Grantha",
+      "Sharada"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 179,
+     "q": "Location and year of first printing press set up in India:",
+     "options": [
+      "Calcutta, 1780",
+      "Goa, 1556 (by Portuguese)",
+      "Bombay, 1674",
+      "Madras, 1711"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 180,
+     "q": "Sanskrit term for making an impression using a seal:",
+     "options": [
+      "Mudra",
+      "Mudrana",
+      "Lipi",
+      "Rekha"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 181,
+     "q": "Modern international character encoding standard preserving complex Indian script shapes:",
+     "options": [
+      "ASCII",
+      "Unicode & OpenType",
+      "ISCII",
+      "ANSI"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 182,
+     "q": "Sanskrit term for the process of printing is derived from 'Mudra' and called:",
+     "options": [
+      "Lipi",
+      "Mudrana",
+      "Lekhana",
+      "Chhapana"
+     ],
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "id": "T22",
+   "lesson": 22,
+   "title": "Ancient Indian Astronomy - Tracing Celestial Wisdom",
+   "questions": [
+    {
+     "id": 183,
+     "q": "Two broad chronological periods of Indian astronomical tradition:",
+     "options": [
+      "Vedic & Puranic",
+      "Pre-Siddhantic & Siddhantic",
+      "Ancient & Modern",
+      "Solar & Lunar"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 184,
+     "q": "Vedanga responsible for astronomy and time determination (Kaala Nirnaya):",
+     "options": [
+      "Shiksha",
+      "Vyakarana",
+      "Jyotisha",
+      "Kalpa"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 185,
+     "q": "Etymological meaning of Indian word 'Graha':",
+     "options": [
+      "Wanderer",
+      "Grabber / capturer",
+      "Star",
+      "Light emitter"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 186,
+     "q": "Author of Vedanga Jyotisha text containing calendar algorithms:",
+     "options": [
+      "Parashara",
+      "Garga",
+      "Lagadha",
+      "Aryabhata"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 187,
+     "q": "Nature of early texts like Parashara Tantram and Vriddha Garga Samhita:",
+     "options": [
+      "Mathematical calculus",
+      "Encyclopedic observational texts",
+      "Horoscopic astrology",
+      "Mythological stories"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 188,
+     "q": "How many auxiliary disciplines (Vedangas) support the study of the Vedas?",
+     "options": [
+      "4",
+      "6 (Shiksha, Vyakarana, Chandas, Nirukta, Jyotisha, Kalpa)",
+      "8",
+      "10"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 189,
+     "q": "Which Vedanga specializes in metrics and prosody?",
+     "options": [
+      "Shiksha",
+      "Vyakarana",
+      "Chandas",
+      "Nirukta"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 190,
+     "q": "Which Vedanga specializes in etymology?",
+     "options": [
+      "Shiksha",
+      "Vyakarana",
+      "Chandas",
+      "Nirukta"
+     ],
+     "answer": "D"
+    }
+   ]
+  },
+  {
+   "id": "T23",
+   "lesson": 23,
+   "title": "Ancient Indian Astronomy - Dimensions of Vedanga Jyotisham",
+   "questions": [
+    {
+     "id": 191,
+     "q": "Total number of Angas (parts) comprising Vedanga Jyotisham discipline:",
+     "options": [
+      "12",
+      "27",
+      "64",
+      "108"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 192,
+     "q": "Reason civil architecture (Vastu Vidya) and earthquakes (Bhukampa) were included in Vedanga Jyotisha:",
+     "options": [
+      "Random compilation",
+      "Direction determination via celestial movements was essential",
+      "Taxation purposes",
+      "Religious obligation"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 193,
+     "q": "Number of Nakshatras used as static background markers in Indian astronomy:",
+     "options": [
+      "12",
+      "27",
+      "30",
+      "360"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 194,
+     "q": "Definition of Tithi:",
+     "options": [
+      "Solar day",
+      "1/30th of synodic lunar month (~29.5 days)",
+      "Sidereal month",
+      "Leap year day"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 195,
+     "q": "Devata associated with Nakshatra Krittika:",
+     "options": [
+      "Indra",
+      "Agni (Fire)",
+      "Varuna",
+      "Vayu"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 196,
+     "q": "Section in Vedanga text where Rishi Vishwamitra asks 90-95 questions in one breath:",
+     "options": [
+      "Karmaguna",
+      "Mahasalilam",
+      "Vastu Vidya",
+      "Kalpa"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 197,
+     "q": "Average duration of a synodic lunar month (from full moon to next full moon):",
+     "options": [
+      "27.3 days",
+      "29.5 days",
+      "30.5 days",
+      "31.0 days"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 198,
+     "q": "Starting Anga of Vedanga Jyotisha dealing with Nakshatra, Tithi, and Karana is:",
+     "options": [
+      "Mahasalilam",
+      "Karmaguna Anga",
+      "Vastu Vidya",
+      "Bhukampa"
+     ],
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "id": "T24",
+   "lesson": 24,
+   "title": "Ancient Indian Astronomy - Siddhantic Odyssey",
+   "questions": [
+    {
+     "id": 199,
+     "q": "Definition of 'Siddhanta' in Indian astronomy:",
+     "options": [
+      "Pure observation without math",
+      "Integrated system of theory, model, and computational algorithms",
+      "Mythological tale",
+      "Astrological prediction"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 200,
+     "q": "Concept of 'Model' in Indian Knowledge Systems allows:",
+     "options": [
+      "Only visible physical entities",
+      "Fictitious/non-observable parameters if mathematically predictive",
+      "Unverified guesses",
+      "Dogmatic rules"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 201,
+     "q": "Author of landmark astronomical treatise Aryabhatiya:",
+     "options": [
+      "Aryabhata I",
+      "Brahmagupta",
+      "Varahamihira",
+      "Bhaskara II"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 202,
+     "q": "Mathematician who explicitly decoupled mathematics from astronomy in Ganitasarasangraha:",
+     "options": [
+      "Aryabhata",
+      "Mahaviracharya",
+      "Bhaskara I",
+      "Lallacharya"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 203,
+     "q": "Masterpiece astronomical treatise written by Bhaskaracharya II:",
+     "options": [
+      "Aryabhatiya",
+      "Brahmasphutasiddhanta",
+      "Siddhanta Shiromani",
+      "Yuktibhasa"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 204,
+     "q": "Astronomer Lallacharya authored which famous astronomical work?",
+     "options": [
+      "Shishyadhivriddhida Tantram",
+      "Aryabhatiya",
+      "Siddhanta Darpana",
+      "Tantra Sangraha"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 205,
+     "q": "Which two fictitious reference points were used in Indian epicycle models for orbital corrections?",
+     "options": [
+      "Rahu & Ketu",
+      "Mandochha (apogee) & Shighrochha (apex of quick motion)",
+      "Sun & Moon",
+      "Zenith & Nadir"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 206,
+     "q": "Astronomer Bhaskara I authored which pair of works?",
+     "options": [
+      "Mahabhaskariya & Laghubhaskariya",
+      "Lilavati & Bijaganitam",
+      "Aryabhatiya & Yuktibhasa",
+      "Tantra Sangraha & Karana Paddhati"
+     ],
+     "answer": "A"
+    }
+   ]
+  },
+  {
+   "id": "T25",
+   "lesson": 25,
+   "title": "Ancient Indian Astronomy - Kerala's Mathematical Renaissance",
+   "questions": [
+    {
+     "id": 207,
+     "q": "Era of Kerala School of Astronomy and Mathematics:",
+     "options": [
+      "1st-3rd century CE",
+      "8th-10th century CE",
+      "14th-16th century CE (300+ years)",
+      "19th century CE"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 208,
+     "q": "Founder of Kerala School who developed infinite series and early calculus:",
+     "options": [
+      "Aryabhata",
+      "Madhava of Sangamagrama",
+      "Parameshwara",
+      "Neelakanta"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 209,
+     "q": "Kerala astronomer who conducted 55 years of continuous eclipse observations:",
+     "options": [
+      "Damodara",
+      "Parameshwara",
+      "Jyesthadeva",
+      "Bhaskara II"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 210,
+     "q": "Major astronomical work by Neelakanta Somayaji presenting revised planetary model:",
+     "options": [
+      "Tantra Sangraha",
+      "Yuktibhasa",
+      "Lilavati",
+      "Karana Paddhati"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 211,
+     "q": "World's first calculus text written in regional prose language (Malayalam):",
+     "options": [
+      "Tantra Sangraha",
+      "Yuktibhasa (by Jyesthadeva)",
+      "Aryabhatiya",
+      "Siddhanta Darpana"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 212,
+     "q": "Astronomical division introduced in Siddhantic period absent in Mahabharata:",
+     "options": [
+      "27 Nakshatras",
+      "12 Rashis (Zodiac signs)",
+      "Tithis",
+      "Solar solstices"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 213,
+     "q": "Epoch point used by Siddhantic astronomers for planetary mean motion calculations:",
+     "options": [
+      "Kaliyuga epoch (~3102 BCE / 5100 yrs ago)",
+      "Saka era 78 CE",
+      "Vikram Samvat 57 BCE",
+      "Hijri era"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 214,
+     "q": "Location of founder Madhava's residence in Kerala:",
+     "options": [
+      "Thiruvananthapuram",
+      "Sangamagrama",
+      "Kozhikode",
+      "Thrissur"
+     ],
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "id": "T26",
+   "lesson": 26,
+   "title": "Ancient Indian Astronomy - Epicycle Models to Siddhantic Astronomy",
+   "questions": [
+    {
+     "id": 215,
+     "q": "First correction in Indian epicycle model accounting for elliptical orbit eccentricity:",
+     "options": [
+      "Shighra correction",
+      "Manda correction",
+      "Ayana correction",
+      "Deshantara"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 216,
+     "q": "Second correction in epicycle model converting heliocentric planetary motion to geocentric observation:",
+     "options": [
+      "Manda correction",
+      "Shighra correction",
+      "Latitudinal correction",
+      "Precession"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 217,
+     "q": "19th-century Odisha naked-eye astronomer who wrote 2500-verse Siddhanta Darpana:",
+     "options": [
+      "Pathani Samanta (Samanta Chandrasekhara)",
+      "Bapu Deva Sastri",
+      "Sawai Jai Singh",
+      "Raghunatha Acharya"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 218,
+     "q": "Accuracy of longitude calculation achieved by Samanta Chandrasekhara using wooden instruments:",
+     "options": [
+      "Within 30 degrees",
+      "Within 6 degrees",
+      "Off by 90 degrees",
+      "Completely inaccurate"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 219,
+     "q": "Celestial coordinate system measuring angle from North and height above horizon:",
+     "options": [
+      "Right ascension & declination",
+      "Azimuth and Elevation",
+      "Ecliptic longitude & latitude",
+      "Galactic coordinates"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 220,
+     "q": "Precision of Pi value achieved by Kerala astronomers using infinite series:",
+     "options": [
+      "2 decimal places",
+      "5 decimal places",
+      "10 to 17 decimal places",
+      "50 decimal places"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 221,
+     "q": "Which famous observatory structures were built by Sawai Jai Singh II in Jaipur, Delhi, and Ujjain?",
+     "options": [
+      "Sanchi Stupa",
+      "Jantar Mantar",
+      "Qutub Minar",
+      "Buland Darwaza"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 222,
+     "q": "Instrument used in historical astronomy to measure altitude of stars:",
+     "options": [
+      "Astrolabe / Quadrant",
+      "Microscope",
+      "Barometer",
+      "Seismograph"
+     ],
+     "answer": "A"
+    }
+   ]
+  },
+  {
+   "id": "T27",
+   "lesson": 27,
+   "title": "Ancient Indian Astronomy - Bridging Stories and Mathematics",
+   "questions": [
+    {
+     "id": 223,
+     "q": "Name of Bhaskaracharya II's arithmetic masterpiece Lilavati was inspired by:",
+     "options": [
+      "His mother",
+      "His daughter Lilavati",
+      "A goddess",
+      "A mathematical term"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 224,
+     "q": "Sinking bowl water clock (Jala Yantra) described in Lilavati sinks in:",
+     "options": [
+      "1 hour",
+      "24 minutes (60 times a day)",
+      "12 minutes",
+      "6 minutes"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 225,
+     "q": "Authentic Indian mathematical term for algorithm / step-by-step procedure:",
+     "options": [
+      "Algorithm",
+      "Paripati / Party ganita",
+      "Kuttaka",
+      "Sutra"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 226,
+     "q": "Origin of Western word 'Algorithm':",
+     "options": [
+      "Sanskrit Alankara",
+      "Name of Arab mathematician Al-Khwarizmi",
+      "Greek Algos",
+      "Latin Algor"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 227,
+     "q": "How many times does the calibrated Jala Yantra sink in 24 hours (aahoratra)?",
+     "options": [
+      "24 times",
+      "60 times (every 24 minutes)",
+      "100 times",
+      "12 times"
+     ],
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "id": "T28",
+   "lesson": 28,
+   "title": "Ancient Indian Math - Basic Operations to Applications",
+   "questions": [
+    {
+     "id": 228,
+     "q": "Maximum named place value standard in Lilavati (10^17):",
+     "options": [
+      "Sahasram",
+      "Koti",
+      "Parardham",
+      "Shankhu"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 229,
+     "q": "Set of 8 fundamental operations in Indian arithmetic:",
+     "options": [
+      "Parikarma Ashtakam",
+      "Ashtanga Yoga",
+      "Ashtadhyayi",
+      "Ashtavarga"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 230,
+     "q": "Parikarma Ashtakam includes 4 basic operations PLUS:",
+     "options": [
+      "Integrals, derivatives, limits, series",
+      "Squaring, square root, cubing, cube root",
+      "Sine, cosine, tangent, secant",
+      "Permutations & combinations"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 231,
+     "q": "Mathematician who first systematically codified rules of Zero (Shunyam Parikarma Ashtakam):",
+     "options": [
+      "Aryabhata",
+      "Brahmagupta",
+      "Bhaskara II",
+      "Mahavira"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 232,
+     "q": "Rule of Three for linear and inverse proportions:",
+     "options": [
+      "Trirashikam",
+      "Shredhi",
+      "Kuttaka",
+      "Paribhasha"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 233,
+     "q": "Arithmetic application 'Khata Vyavahara' calculates:",
+     "options": [
+      "Shadow lengths",
+      "Volume of excavated pits",
+      "Grain heap volumes",
+      "Wood sawing"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 234,
+     "q": "Arithmetic application 'Chhaya Vyavahara' calculates:",
+     "options": [
+      "Time based on shadow length of stick (Shanku)",
+      "Water flow",
+      "Land area",
+      "Interest"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 235,
+     "q": "'Bhadra Ganita' in Narayana Pandita's Ganita Kaumudi refers to:",
+     "options": [
+      "Trigonometry",
+      "Magic Squares",
+      "Algebra",
+      "Fractions"
+     ],
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "id": "T29",
+   "lesson": 29,
+   "title": "Legacy of Ancient Indian Astronomy & Math",
+   "questions": [
+    {
+     "id": 236,
+     "q": "Standalone treatise on algebra written by Bhaskaracharya II:",
+     "options": [
+      "Lilavati",
+      "Bijaganitam",
+      "Siddhanta Shiromani",
+      "Ganitakaumudi"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 237,
+     "q": "Key mathematical concept introduced by India that took centuries for Europe to assimilate:",
+     "options": [
+      "Positive integers",
+      "Negative numbers",
+      "Geometry",
+      "Division"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 238,
+     "q": "Structural format of mathematical problems in Lilavati:",
+     "options": [
+      "Raw numbers only",
+      "Procedural rule (Karana Sutram) followed by poetic word problem",
+      "Prose essay",
+      "Multiple choice"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 239,
+     "q": "Mathematical principle illustrated by tilting lotus problem in Lilavati:",
+     "options": [
+      "Rule of Three",
+      "Pythagorean Theorem",
+      "Cubic roots",
+      "Permutations"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 240,
+     "q": "Scenario of Peacock diving from tree to catch a snake illustrates:",
+     "options": [
+      "Linear proportion",
+      "Right-triangle geometric application",
+      "Series summation",
+      "Probability"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 241,
+     "q": "Approximate duration Lilavati served as standard mathematics textbook across India:",
+     "options": [
+      "50 years",
+      "100 years",
+      "~600 years (with 30+ commentaries)",
+      "1000 years"
+     ],
+     "answer": "C"
+    },
+    {
+     "id": 242,
+     "q": "In Lilavati's Arjuna vs Karna arrow problem, what type of mathematical problem is solved?",
+     "options": [
+      "Simple addition",
+      "Algebraic equation system",
+      "Geometry of circle",
+      "Probability"
+     ],
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "id": "T30",
+   "lesson": 30,
+   "title": "Indians' Place in the Ancient World - Birth of Indian Epistemology",
+   "questions": [
+    {
+     "id": 243,
+     "q": "Findings of Angus Maddison UN economic study regarding ancient India:",
+     "options": [
+      "Always a poor nation",
+      "World's largest economy controlling top share of global GDP until 18th century",
+      "Average economy",
+      "Second to Europe"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 244,
+     "q": "Primary drivers of ancient India's global economic wealth:",
+     "options": [
+      "Foreign aid",
+      "Highly optimized agriculture and high-value manufactured export trade",
+      "Gold mining",
+      "Slave trade"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 245,
+     "q": "Ancient civilization whose thinkers complained about losing gold/silver to India for luxury imports:",
+     "options": [
+      "Ancient Rome & Greece",
+      "China",
+      "Maya",
+      "Egypt"
+     ],
+     "answer": "A"
+    },
+    {
+     "id": 246,
+     "q": "Reality regarding the 'European Dark Ages':",
+     "options": [
+      "Dark Ages occurred globally",
+      "Dark Ages occurred ONLY in Western Europe; India, China, and Arabia flourished",
+      "Dark Ages occurred in India",
+      "Dark Ages never happened anywhere"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 247,
+     "q": "Arab scholar in Baghdad (Bait al-Hikma) who translated Indian mathematical texts:",
+     "options": [
+      "Al-Biruni",
+      "Mahmood Al-Khwarizmi",
+      "Ibn Sina",
+      "Al-Kindi"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 248,
+     "q": "Book title by Al-Khwarizmi transmitting Indian numbers to Europe:",
+     "options": [
+      "Liber Abaci",
+      "Kitab al-Hisab wal-Hind",
+      "Almagest",
+      "Organon"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 249,
+     "q": "Italian mathematician who introduced Indian numerals to Europe via his book 'Liber Abaci':",
+     "options": [
+      "Galileo",
+      "Fibonacci (Leonardo Pisano)",
+      "Copernicus",
+      "Descartes"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 250,
+     "q": "11th-century Spanish Arab scholar Said Al-Andalusi ranked which nation #1 in global science:",
+     "options": [
+      "Greeks",
+      "Hindus / Indians",
+      "Egyptians",
+      "Romans"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 251,
+     "q": "11th-century Iranian scholar who documented Indian science during Ghazni's invasions:",
+     "options": [
+      "Al-Khwarizmi",
+      "Al-Biruni",
+      "Fibonacci",
+      "Playfair"
+     ],
+     "answer": "B"
+    },
+    {
+     "id": 252,
+     "q": "Word 'Epistemology' means:",
+     "options": [
+      "History of kings",
+      "Theory / method of knowledge and thinking",
+      "Study of stars",
+      "Grammar rules"
+     ],
+     "answer": "B"
+    }
+   ]
+  }
+ ]
+};
